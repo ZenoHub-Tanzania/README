@@ -23,8 +23,8 @@ If you're interested in contributing to our projects, we welcome your contributi
 
 Our team is made up of talented and experienced developers, designers, and project managers. Meet some of our key team members:
 
-- [John Doe](https://github.com/iamdastani), Lead Developer
-- [Bob Johnson](https://github.com/isaka-lumato), Project Manager
+- [Dastani Ferdinandi](https://github.com/iamdastani), Lead Developer
+- [Isaac William Lumato](https://github.com/isaka-lumato), Project Manager
 
 ## Contact Us
 
