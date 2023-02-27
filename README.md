@@ -6,7 +6,7 @@ Welcome to ZenoHub, a leading technology services and digital solutions provider
 
 Our Github organization features a variety of projects that demonstrate our team's capabilities and expertise. Here are a few of our latest projects:
 
-- [Project 1](https://github.com/iamdastani/ZenoHub): A mobile app for managing tasks and deadlines.
+- [Project 1](https://github.com/iamdastani/ZenoHub): A website design for ZenoHub, showcasing our services and expertise.
 - [Project 2](https://github.com/iamdastani/MwanaBot): A web-based platform for online learning.
 - [Project 3](https://github.com/iamdastani/Smart-Home-Flutter-App): An open source library for machine learning algorithms.
 
